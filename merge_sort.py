@@ -83,5 +83,6 @@ def verify_sorted(list):
 
 alist = [54, 63, 67, 34, 98, 22, 45, 29, 14]
 l = merge_sort(alist)
+print(l)
 print(verify_sorted(alist))
 print(verify_sorted(l))
