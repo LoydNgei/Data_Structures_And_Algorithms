@@ -4,4 +4,10 @@ class Solution:
             for j in range(i):
                 print("*", end="")
             print()
-    invertedRightPyramid(8);
+    invertedRightPyramid(5);
+
+
+# class problem1:
+
+
+    
